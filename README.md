@@ -1,8 +1,8 @@
-# self-service-platform
+# Building self-service-platform
 
 
 
-## Getting started
+## Getting started now
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
 
